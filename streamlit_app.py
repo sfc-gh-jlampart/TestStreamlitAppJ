@@ -1,4 +1,3 @@
 import streamlit as st
 
-st.text('Hey There!')
-st.text('rpc test')
+st.text('Hey There! This is Ayo app for testing')
