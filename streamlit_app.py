@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.text('Hey There! This is an app for testing things all day long. All is good and well!')
+st.text('Hey There! This is an app for testing. All is good and well!')
